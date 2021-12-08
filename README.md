@@ -11,3 +11,6 @@ This website will tell the state names all over the world and highlight that wor
 - CSS
 
 - VanillaJS
+
+
+## thanks to https://countrystatecity.in/ for the API.
